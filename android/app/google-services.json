@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "395489005130",
+    "project_id": "village-willa",
+    "storage_bucket": "village-willa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395489005130:android:69a9e284c53bda364ee0b3",
+        "android_client_info": {
+          "package_name": "com.VillageWale.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395489005130-kpa9kghmm6rnokdb94qokmqojhmlutsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe49KCxeTEp_mmsPG82OLLdVOUobGhCCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395489005130-kpa9kghmm6rnokdb94qokmqojhmlutsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395489005130:android:edc7811895cd5b484ee0b3",
+        "android_client_info": {
+          "package_name": "com.example.villagewale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395489005130-kpa9kghmm6rnokdb94qokmqojhmlutsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe49KCxeTEp_mmsPG82OLLdVOUobGhCCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395489005130-kpa9kghmm6rnokdb94qokmqojhmlutsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
